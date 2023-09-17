@@ -41,7 +41,7 @@ const Contact = () => {
           <article className="contact__option">
             <RiMessengerLine className="contact__option-icon" />
             <h4>Message</h4>
-            <h5>egator tutorials</h5>
+            <h5>Nadeem Gulam</h5>
             <a href="https://m.me" target="_blank">
               Send a Message
             </a>
